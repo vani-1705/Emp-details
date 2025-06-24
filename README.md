@@ -1,5 +1,9 @@
 # Emp-details
 👨‍💼 HR Dashboard – Employee Details Viewer
+# PROJECT LOGIC:
+-In this code u can see employee details which u are saved in code.
+-This is basic html code to see details of employees u can add or delete data from this code.
+
 ![Emp-details](https://github.com/user-attachments/assets/a1e882d9-ecef-400f-b4ce-b1e099bc5e34)
 
 
